@@ -4,3 +4,6 @@
 ~~~~
 http://www.recipepuppy.com/about/api/
 ~~~
+
+
+Cocoapods : Alamofire
